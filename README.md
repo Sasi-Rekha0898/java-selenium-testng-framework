@@ -14,7 +14,7 @@ The framework follows the Page Object Model (POM) design pattern and supports re
 * Selenium WebDriver
 * TestNG
 * Maven
-* Allure Reports
+* Extent Reports
 * GitHub Actions
 
 ---
@@ -24,7 +24,7 @@ The framework follows the Page Object Model (POM) design pattern and supports re
 * UI Automation Testing
 * Page Object Model Design
 * Reusable Utility Classes
-* Allure Reporting
+* Extent Reporting
 * Screenshot Capture on Failure
 * Maven Build Management
 * CI/CD Integration using GitHub Actions
