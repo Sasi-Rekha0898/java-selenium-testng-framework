@@ -70,10 +70,10 @@ mvn test
 
 ---
 
-## Generate Allure Report
+## Extent Report
 
-```bash
-allure serve allure-results
+![Extent Report](extent-report.png)
+
 ```
 
 ---
