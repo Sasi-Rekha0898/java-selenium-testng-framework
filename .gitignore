@@ -1,0 +1,10 @@
+target/
+reports/
+test-output/
+allure-results/
+allure-report/
+.idea/
+.settings/
+.classpath
+.project
+*.iml
